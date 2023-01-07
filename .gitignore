@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+.husky
+release
+yarn-error.log
+.DS_Store
+*.d.ts
+*.js
+*.js.map
