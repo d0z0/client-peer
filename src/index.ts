@@ -37,10 +37,6 @@ const connectToHub = () => {
   }
 };
 
-// const waitForHub = () => {
 setInterval(() => {
   connectToHub();
 }, 1000);
-// };
-
-// connectToHub();
